@@ -29,3 +29,8 @@ The dataset on Hugging Face: https://huggingface.co/datasets/Open-Orca/OpenOrca
 pip install langchain langchain-community
 ```
 
+### To Run and Launch the AI Chatbot
+chainlit run chat.py -w
+(The above command needs to be executed in the terminal and - w stands for watch mode - which 
+automatically watches your project files for changes and reloads the app )
+
